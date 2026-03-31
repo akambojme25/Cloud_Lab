@@ -1,0 +1,19 @@
+Name: Abhinav Kamboj
+Roll Number: 8025320005
+Course:  Cloud Computing (PCS221)
+
+
+index page - http://57.159.27.242/
+Contact Page - http://57.159.27.242/contact.html
+
+Description:
+
+* Created Azure VM
+* Installed Apache
+* Hosted HTML pages
+* Enabled Port 80
+* Verified via public IP
+
+
+Static Website - https://staticwebsiteassignment.z29.web.core.windows.net/
+This website is hosted using Azure Storage without a VM.
